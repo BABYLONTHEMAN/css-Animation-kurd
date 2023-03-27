@@ -59,12 +59,12 @@ body{
 100% {transform: rotate(-360deg);left:0px;}
     }
     
-
+ /* */  /*comment */
     .b {
 
         width: 151px;
         height: 100px;
-        animation: b 8s infinite;
+        animation: b 8s infinite;  /* b is animation_name, 8s animation_duration, Infinite is iteration 'how many times'*/  
         padding:0px;
         border-radius:50px;
         
